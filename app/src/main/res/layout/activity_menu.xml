@@ -14,13 +14,21 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
         android:layout_marginBottom="40dp"
-        android:text="SaludApp" />
+        android:text="@string/saludapp" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnIMCApp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="40dp"
-        android:text="IMC APP" />
+        android:text="@string/imc_app" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnTodo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:text="@string/todo_app" />
+
 
 </LinearLayout>

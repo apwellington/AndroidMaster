@@ -22,4 +22,16 @@
 
     <string name="obesidad_title">Obesidad</string>
     <string name="obesidad_decription">Debes ver un especialista urgente</string>
+    <string name="imc_app">IMC APP</string>
+    <string name="saludapp">SaludApp</string>
+    <string name="todo_app">TODO APP</string>
+    <string name="wellcome">Wellcome</string>
+    <string name="categories">categories</string>
+    <string name="todo_task">Task</string>
+    <string name="add_task">add task</string>
+    <string name="add_new_task">Add new Task</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="other">Other</string>
+    <string name="personal">Personal</string>
+    <string name="business">Business</string>
 </resources>
